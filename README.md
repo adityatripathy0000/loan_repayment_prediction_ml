@@ -22,3 +22,6 @@ Loan Amount,
 Credit History,
 Property_Area,
 Loan_Status.
+
+
+Prediction Accuracy : 83.76 %
